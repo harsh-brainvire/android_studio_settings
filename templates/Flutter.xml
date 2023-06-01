@@ -1,0 +1,34 @@
+<templateSet group="Flutter">
+  <template name="boilerplate" value="import 'package:flutter/material.dart';&#10;&#10;void main() {&#10;  runApp(new MaterialApp(&#10;    home: new MyApp(),&#10;  ));&#10;}&#10;&#10;class MyApp extends StatefulWidget {&#10;&#10;  @override&#10;  _state createState() =&gt; new _state();&#10;}&#10;&#10;class _state extends State&lt;MyApp&gt;{&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return new Scaffold(&#10;      appBar: new AppBar(&#10;        title: new Text('My Title'),&#10;      ),&#10;      body: new Container(&#10;        padding: new EdgeInsets.all(32.0),&#10;        child: new Center(&#10;          child: new Column(&#10;            children: &lt;Widget&gt;[&#10;              new Text('Hello World!')&#10;            ],&#10;          ),&#10;        ),&#10;      ),&#10;    );&#10;  }&#10;}" description="Default Flutter BoilerPlate Code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="for(int i = 0; i &lt; $LIMIT$; i++) {&#10;  $END$&#10;}" description="Create iteration loop Flutter" toReformat="false" toShortenFQNames="true">
+    <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="logt" value="static final String TAG = &quot;$className$&quot;;" description="A static logtag with your current classname" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="loge" value="Logs.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="log error for Flutter" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="logw" value="Logs.w(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="log warning for Flutter" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="dartMethodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

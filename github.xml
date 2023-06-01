@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="harsh-brainvire" id="c9ad349a-5ab0-4790-afda-f8e882ec48e8">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

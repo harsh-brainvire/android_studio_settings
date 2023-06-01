@@ -1,0 +1,29 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/MusicTogether/_git/MusicTogetherAppFlutter" />
+          <option name="serverUri" value="https://dev.azure.com/BrainvireInfo" />
+          <option name="userId" value="6b33afb8-8aff-60d6-8fda-a7785cd11cc9" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37b56a1b-cd82-442b-974f-0f114b3aed08&quot;,&quot;name&quot;:&quot;BrainvireInfo&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projectCollections/37b56a1b-cd82-442b-974f-0f114b3aed08&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Flutter - Mobile&quot;,&quot;id&quot;:&quot;c2cfc988-1df8-43fb-bd89-445af276ed13&quot;,&quot;name&quot;:&quot;MusicTogether&quot;,&quot;revision&quot;:5201,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projects/c2cfc988-1df8-43fb-bd89-445af276ed13&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;3b025952-8fee-4f1d-8221-60ae132d1273&quot;,&quot;name&quot;:&quot;MusicTogetherAppFlutter&quot;,&quot;remoteUrl&quot;:&quot;https://BrainvireInfo@dev.azure.com/BrainvireInfo/MusicTogether/_git/MusicTogetherAppFlutter&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/git/repositories/3b025952-8fee-4f1d-8221-60ae132d1273&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Flutter - Mobile&quot;,&quot;id&quot;:&quot;c2cfc988-1df8-43fb-bd89-445af276ed13&quot;,&quot;name&quot;:&quot;MusicTogether&quot;,&quot;revision&quot;:5201,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projects/c2cfc988-1df8-43fb-bd89-445af276ed13&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/musictogether/_git/musictogetherappflutter" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>

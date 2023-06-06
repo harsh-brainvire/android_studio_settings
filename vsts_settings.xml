@@ -4,6 +4,15 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/Mobile%20Base%20Structure/_git/Android" />
+          <option name="serverUri" value="https://dev.azure.com/BrainvireInfo" />
+          <option name="userId" value="6b33afb8-8aff-60d6-8fda-a7785cd11cc9" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37b56a1b-cd82-442b-974f-0f114b3aed08&quot;,&quot;name&quot;:&quot;BrainvireInfo&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projectCollections/37b56a1b-cd82-442b-974f-0f114b3aed08&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Android | IOS&quot;,&quot;id&quot;:&quot;a723166a-4c33-4d60-a7f1-c5447cf362dc&quot;,&quot;name&quot;:&quot;Mobile Base Structure&quot;,&quot;revision&quot;:4305,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projects/a723166a-4c33-4d60-a7f1-c5447cf362dc&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;c27be338-3ef3-4716-8f8a-9f398ab28053&quot;,&quot;name&quot;:&quot;Android&quot;,&quot;remoteUrl&quot;:&quot;https://BrainvireInfo@dev.azure.com/BrainvireInfo/Mobile%20Base%20Structure/_git/Android&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/git/repositories/c27be338-3ef3-4716-8f8a-9f398ab28053&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Android | IOS&quot;,&quot;id&quot;:&quot;a723166a-4c33-4d60-a7f1-c5447cf362dc&quot;,&quot;name&quot;:&quot;Mobile Base Structure&quot;,&quot;revision&quot;:4305,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projects/a723166a-4c33-4d60-a7f1-c5447cf362dc&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/MusicTogether/_git/MusicTogetherAppFlutter" />
           <option name="serverUri" value="https://dev.azure.com/BrainvireInfo" />
           <option name="userId" value="6b33afb8-8aff-60d6-8fda-a7785cd11cc9" />
@@ -21,7 +30,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/musictogether/_git/musictogetherappflutter" />
+          <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/mobile base structure/_git/android" />
         </PropertyState>
       </array>
     </option>

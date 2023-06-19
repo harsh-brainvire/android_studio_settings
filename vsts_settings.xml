@@ -4,6 +4,15 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/Shahen%20Express_V2/_git/shahen_express_requester_android" />
+          <option name="serverUri" value="https://dev.azure.com/BrainvireInfo" />
+          <option name="userId" value="6b33afb8-8aff-60d6-8fda-a7785cd11cc9" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;37b56a1b-cd82-442b-974f-0f114b3aed08&quot;,&quot;name&quot;:&quot;BrainvireInfo&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projectCollections/37b56a1b-cd82-442b-974f-0f114b3aed08&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;iOS | Android | Web-PHP | Open Source&quot;,&quot;id&quot;:&quot;e999d92c-6ef4-4674-bf38-78a6c6b70f6f&quot;,&quot;name&quot;:&quot;Shahen Express_V2&quot;,&quot;revision&quot;:5997,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projects/e999d92c-6ef4-4674-bf38-78a6c6b70f6f&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;24f06ea8-a1c3-4cb2-b319-d6817216005a&quot;,&quot;name&quot;:&quot;shahen_express_requester_android&quot;,&quot;remoteUrl&quot;:&quot;https://BrainvireInfo@dev.azure.com/BrainvireInfo/Shahen%20Express_V2/_git/shahen_express_requester_android&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/git/repositories/24f06ea8-a1c3-4cb2-b319-d6817216005a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;iOS | Android | Web-PHP | Open Source&quot;,&quot;id&quot;:&quot;e999d92c-6ef4-4674-bf38-78a6c6b70f6f&quot;,&quot;name&quot;:&quot;Shahen Express_V2&quot;,&quot;revision&quot;:5997,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/BrainvireInfo/_apis/projects/e999d92c-6ef4-4674-bf38-78a6c6b70f6f&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/Mobile%20Base%20Structure/_git/Android" />
           <option name="serverUri" value="https://dev.azure.com/BrainvireInfo" />
           <option name="userId" value="6b33afb8-8aff-60d6-8fda-a7785cd11cc9" />
@@ -26,7 +35,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/mobile base structure/_git/android" />
+          <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/shahen express_v2/_git/shahen_express_requester_android" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="tfHome" />

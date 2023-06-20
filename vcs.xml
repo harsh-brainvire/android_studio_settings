@@ -22,6 +22,10 @@
           <option name="url" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/Shahen%20Express_V2/_git/shahen_express_requester_android" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://BrainvireInfo@dev.azure.com/BrainvireInfo/Shahen%20Express_V2/_git/shahen_express_provider_android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\AndroidStudioProjects" />

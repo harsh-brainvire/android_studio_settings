@@ -52,12 +52,12 @@
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="tfHome" />
-          <option name="value" value="" />
-        </PropertyState>
-        <PropertyState>
           <option name="name" value="lastContextKey" />
           <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/everything breaks/_git/everything_breaks_app" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
         </PropertyState>
       </array>
     </option>

@@ -1,13 +1,22 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://dev.azure.com/BrainvireInfo" />
+          <option name="serverUri" value="https://dev.azure.com/BrainvireInfo" />
+          <option name="userId" value="6b33afb8-8aff-60d6-8fda-a7785cd11cc9" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//brainvireinfo@dev.azure.com/brainvireinfo/everything breaks/_git/everything_breaks_app" />
+          <option name="value" value="//dev.azure.com/brainvireinfo" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="tfHome" />

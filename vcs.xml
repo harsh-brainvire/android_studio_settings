@@ -82,9 +82,13 @@
           <option name="url" value="https://YunusBrainvire@bitbucket.org/weewoo-apps/gps185-01-gps-map-route.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://YunusBrainvire@bitbucket.org/weewoo-apps/gps005-instagram-tracker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="D:\AndroidStudioProjects\weewoo" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
